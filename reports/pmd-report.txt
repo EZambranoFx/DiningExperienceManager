@@ -1,0 +1,41 @@
+src/main/java/main/DiningExperienceManager.java:10:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/main/DiningExperienceManager.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/main/DiningExperienceManager.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/main/DiningExperienceManager.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/main/DiningExperienceManager.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/main/DiningExperienceManager.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/main/DiningExperienceManager.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/main/DiningExperienceManager.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'menu' could be declared final
+src/main/java/main/DiningExperienceManager.java:19:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/main/java/main/DiningExperienceManager.java:19:	UseConcurrentHashMap:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/main/DiningExperienceManager.java:22:	CloseResource:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/main/java/main/DiningExperienceManager.java:24:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:28:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'meal' could be declared final
+src/main/java/main/DiningExperienceManager.java:29:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/main/DiningExperienceManager.java:31:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/main/DiningExperienceManager.java:36:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:40:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'quantity' could be declared final
+src/main/java/main/DiningExperienceManager.java:47:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:55:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:57:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:62:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'menu' could be declared final
+src/main/java/main/DiningExperienceManager.java:62:	UseConcurrentHashMap:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/main/DiningExperienceManager.java:70:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'menu' is not assigned and could be declared final
+src/main/java/main/DiningExperienceManager.java:71:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:72:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entry' could be declared final
+src/main/java/main/DiningExperienceManager.java:73:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:85:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:88:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:93:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'order' is not assigned and could be declared final
+src/main/java/main/DiningExperienceManager.java:94:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:95:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'entry' could be declared final
+src/main/java/main/DiningExperienceManager.java:96:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/main/DiningExperienceManager.java:100:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'order' is not assigned and could be declared final
+src/main/java/main/DiningExperienceManager.java:101:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'totalQuantity' could be declared final
+src/main/java/main/DiningExperienceManager.java:103:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/main/DiningExperienceManager.java:104:	AvoidReassigningParameters:	AvoidReassigningParameters: Avoid reassigning parameters such as 'totalCost'
+src/main/java/main/DiningExperienceManager.java:107:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/main/DiningExperienceManager.java:111:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/main/DiningExperienceManager.java:113:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
